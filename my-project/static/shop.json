@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "brand": "小米",
+    "single": "小米8",
+    "price":2000,
+    "num":1,
+    "subtotal":2000,
+    "src":"http://img14.360buyimg.com/n1/s450x450_jfs/t1/65786/38/8555/351173/5d674913E0a3b51f6/8d2e3fadc4cfac3c.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "华为",
+    "single": "荣耀5",
+    "price":1800,
+    "num":1,
+    "subtotal":1800,
+    "src":"https://img13.360buyimg.com/n1/s450x450_jfs/t1/35493/30/14545/210121/5d280052E1187c175/e9ad9735fc3f0686.jpg"
+
+  },
+  {
+    "id": 3,
+    "brand": "苹果",
+    "single": "苹果11ProMax",
+    "price":10000,
+    "num":1,
+    "subtotal":10000,
+    "src":"https://img13.360buyimg.com/n1/s450x450_jfs/t1/51521/12/10437/169738/5d780c40Eda0f0e1d/ccbc7745b343f87d.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "vivo",
+    "single": "vivo11",
+    "price":1000,
+    "num":1,
+    "subtotal":1000,
+    "src":"https://img10.360buyimg.com/n1/s450x450_jfs/t1/63108/15/6411/273496/5d47f80dE76d22c0a/618e409717ff0fa7.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "oppo",
+    "single": "oppo13",
+    "price":1200,
+    "num":1,
+    "subtotal":1200,
+    "src":"https://img13.360buyimg.com/n1/jfs/t1/104111/32/599/133493/5db03c8bE71d81507/a550c5fb387fc151.jpg"
+  }
+]
